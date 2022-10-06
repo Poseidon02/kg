@@ -3,23 +3,23 @@
 
 int main(void)
 {
-	printf("PPPPPPPPP\n");
-	printf("    P   P\n");
-	printf("    P   P\n");
-	printf("    P   P\n");
-	printf("     P P \n");
+	printf("     CCCCCCC       \n");
+	printf("    C	    C      \n");
+	printf("   C         C	   \n");
+	printf("   C         C	   \n");
+	printf("    C       C	   \n");
 	printf("\n");
-	printf("   ])\n");
-	printf("  ]    \n");
-	printf(" ]     \n");
-	printf("  ]\n");
-	printf("   ]]]])]]\n");
+	printf("     CCCCCCC       \n");
+	printf("    C	    C      \n");
+	printf("   C         C	   \n");
+	printf("   C         C	   \n");
+	printf("    C       C	   \n");
 	printf("\n");
-	printf("DDDDDDDDD\n");
-	printf("D       D\n");
-	printf("D       D \n");
-	printf(" D     D\n");
-	printf("  DDDDD\n");
+	printf("     CCCCCCC       \n");
+	printf("    C       C      \n");
+	printf("   C         C	   \n");
+	printf("   C         C	   \n");
+	printf("    C       C	   \n");
 	system("pause");
 	return 0;
 }

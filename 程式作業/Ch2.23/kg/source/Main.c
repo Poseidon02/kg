@@ -1,3 +1,4 @@
+
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -20,6 +21,12 @@ int main(void)
 				num[i + 1] = j;
 			}
 		}
+	}
+	if (num[1] < num[0])
+	{
+		j = num[1];
+		num[1] = num[0];
+		num[0] = j;
 	}
 	printf("largest¡G%d smallest¡G%d\n", num[2], num[0]);
 	system("pause");
